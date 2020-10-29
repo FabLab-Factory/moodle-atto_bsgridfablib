@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/zvdstaey/projects/fablab_factory/development/atto_plugin_bsgridfablib/bsgridfablib/pix/ed/col5x11.png"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="col11x1.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 100 100"
+   viewBox="0 0 100 100"
+   y="0px"
+   x="0px"
+   id="Ebene_7"
+   version="1.1"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs41" /><sodipodi:namedview
+   inkscape:current-layer="Ebene_7"
+   inkscape:window-maximized="1"
+   inkscape:window-y="27"
+   inkscape:window-x="67"
+   inkscape:cy="38.352316"
+   inkscape:cx="-10.685615"
+   inkscape:zoom="4.39"
+   showgrid="false"
+   id="namedview39"
+   inkscape:window-height="1025"
+   inkscape:window-width="1853"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
+<rect
+   id="rect28"
+   height="100"
+   width="2.5"
+   fill="#989898" />
+<rect
+   id="rect30"
+   height="2.5"
+   width="100"
+   fill="#989898"
+   y="0" />
+<rect
+   id="rect32"
+   height="2.5"
+   width="100"
+   fill="#989898"
+   y="97.5" />
+
+<rect
+   id="rect36"
+   height="100"
+   width="2.5"
+   fill="#989898"
+   x="97.5" />
+<rect
+   y="-0.014629685"
+   x="91.563911"
+   fill="#989898"
+   width="2.5"
+   height="100"
+   id="rect834" /></svg>

@@ -1,0 +1,10 @@
+{
+    "name": "moodle-atto_bsgridfablib-button",
+    "builds": {
+        "moodle-atto_bsgridfablib-button": {
+            "jsfiles": [
+                "button.js"
+            ]
+        }
+    }
+}
